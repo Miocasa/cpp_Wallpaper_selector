@@ -8,11 +8,13 @@ Must work on gnome and kde plasma(plasma wasn't tested)
  ```
 ## Examples
 #### To set using graphical selector:
-
-> $ wallpaper 
-
+```cpp
+$ wallpaper 
+```
 #### To set using path to image as argument 
-> $ wallpaper --img /home/$USER/Pictures/wallpapers/anime/20250325_225213.jpg
+```cpp
+$ wallpaper --img /home/$USER/Pictures/wallpapers/anime/20250325_225213.jpg
+```
 
 ## Usage
 ```bash
