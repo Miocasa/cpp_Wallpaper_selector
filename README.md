@@ -12,7 +12,7 @@ Must work on gnome and kde plasma(plasma wasn't tested)
 > $ wallpaper 
 
 #### To set using path to image as argument 
-> wallpaper --img /home/$USER/Pictures/wallpapers/anime/20250325_225213.jpg
+> $ wallpaper --img /home/$USER/Pictures/wallpapers/anime/20250325_225213.jpg
 
 ## Usage
 ```bash
