@@ -154,8 +154,8 @@ int main(int argc, char* argv[]) {
     bool dark = false, white = false;
 
     app.add_option("-i,--img", img_file, "Image file");
-    app.add_flag("-d,--dark", dark, "Force dark theme mode");
-    app.add_flag("-w,--white", white, "Force white theme mode");
+    app.add_flag("-d,--dark", dark, "Force set wallpaper for dark theme");
+    app.add_flag("-w,--white", white, "Force set wallpaper for white theme mode");
 
     try {
         app.parse(argc, argv);
